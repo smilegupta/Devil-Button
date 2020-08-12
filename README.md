@@ -7,8 +7,8 @@
 There no prerequistes for making this application, simple notepad will also work.
 
 ## Technology Stack Used
-- HTML :octocat:
-- Javascript :octocat:
+- HTML 
+- Javascript 
 
 ### How to Run this application on your Local Machine
 - Clone this repository
